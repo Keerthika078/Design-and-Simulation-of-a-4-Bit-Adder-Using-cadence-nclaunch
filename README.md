@@ -95,7 +95,7 @@ endmodule
 
 ## Simulation Results
 
-### Nclaunch Work Library Window
+
 ![Exp 7 Tabular colunm](https://github.com/user-attachments/assets/a76224d8-d645-43ca-94d0-65ce9a820ad1)
 
 
